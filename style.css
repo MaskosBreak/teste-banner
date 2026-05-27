@@ -20,7 +20,7 @@ nav{
 
 .title1 h3{
     font-size: 2rem;
-    color: black;
+    color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
@@ -28,12 +28,11 @@ nav{
 .as{
     display: flex;
     gap: 30px;
-    color: black;
     /* color: #a65fc5; */
 
 }
 .as p{
-    color: black;
+    color: white;
 }
 .title2{
     height: 60vh;
@@ -65,7 +64,8 @@ nav{
 }
 .text p{
     text-align: center;
-    
+    padding-left: 70px;
+    padding-right: 70px;
 }
 
 
